@@ -1,15 +1,14 @@
-# TÍTULO DO PROJETO
+# AgendaC
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Laboratório de AED 2`
+`2023 - 2º Semestre`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Kleberson Crystyan de Lima
+- Rafael Baruc Sementile Alves
+
 
 # Documentação
 
