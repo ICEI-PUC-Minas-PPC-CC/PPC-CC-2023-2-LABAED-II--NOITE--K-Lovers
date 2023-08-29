@@ -14,6 +14,9 @@
 
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
-| ETAPA 1 | Definição dos problemas e formação das equipes |
-| ETAPA 2 | <a href="docs/1-Documentacao-contexto.md"> Documentação de Contexto</a>
+| ETAPA 1 | Explicação do projeto|
+| ETAPA 2 | <a href="docs/1-Documentacao-contexto.md"> Documentação de Contexto (Explicação de funcionamento)</a>
+| ETAPA 3 | Atualizações
 
+
+# Codigo
