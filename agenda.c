@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include < stdlib.h>
 #include "funcao.h"
 #include "struct.c"
 
