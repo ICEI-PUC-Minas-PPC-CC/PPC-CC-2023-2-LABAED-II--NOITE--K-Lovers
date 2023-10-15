@@ -19,7 +19,10 @@
 
 # Codigo
 | Estruturas do codigo |
+|  :----:   | ----------- |
 |<a href="agenda.c"> Main da estrutura|
+|  :----:   | ----------- |
 |<a href="funcao.h"> Funções da estrutura|
+|  :----:   | ----------- |
 |<a href="struct.c"> Structs que serão usadas na estrutura|
 
