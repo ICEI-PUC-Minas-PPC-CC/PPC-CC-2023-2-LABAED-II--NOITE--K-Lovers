@@ -24,3 +24,38 @@
 ## Objetivo: Esta struct permite que você defina lembretes associados a contatos.
 ## Funções: Armazenar informações como data e hora do lembrete, descrição do lembrete, status (pendente ou concluído), etc.
 ## Propósito: Ajudar a lembrar de tarefas importantes relacionadas a um contato específico.
+
+#  Menu incial
+-------------------------------
+
+|           Agenda            |
+
+-------------------------------
+
+|  [1] CRIAR CONTATO          |
+
+|  [2] EXCLUIR CONTATO        |
+
+|  [3] VER INFORMAÇÕES SOBRE CONTATO |
+
+|  [4] CRIAR GRUPO            |
+
+|  [5] EXCLUIR GRUPO          |
+
+|  [6] ADICIONAR CONTATO AO GRUPO |
+
+|  [7] EXCLUIR CONTATO DO GRUPO |
+
+|  [8] DEFINIR LEMBRETES      |
+
+|  [9] EXCLUIR LEMBRETE       |
+
+| [10] VISUALIZAR LEMBRETES   |
+
+| [11] VISUALIZAR CONTATOS    |
+
+| [12] VISUALIZAR GRUPOS      |
+
+| [0]  SAIR                    |
+
+-------------------------------
