@@ -1,16 +1,18 @@
-# AgendaC
+# Projeto - Agenda.c
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
+
 `Disciplina: Laboratório de AED 2`
+
 `2023 - 2º Semestre`
 
-## Integrantes
+## Equipe
 
 - Kleberson Crystyan de Lima
 - Rafael Baruc Sementile Alves
 
 
-# Documentação
+# Documentação Do projeto
 
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
@@ -18,11 +20,11 @@
 
 
 # Codigo
-| Estruturas do codigo |
-|  :----:   | ----------- |
-|<a href="agenda.c"> Main da estrutura|
-|  :----:   | ----------- |
-|<a href="funcao.h"> Funções da estrutura|
-|  :----:   | ----------- |
-|<a href="struct.c"> Structs que serão usadas na estrutura|
+< Estruturas do codigo >
+
+<a href="agenda.c"> Main da estrutura
+
+<a href="funcao.h"> Funções da estrutura
+
+<a href="struct.c"> Structs que serão usadas na estrutura
 
